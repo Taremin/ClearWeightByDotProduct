@@ -32,6 +32,10 @@ zip ファイルをダウンロードして、「編集」「設定」「アド�
 - "Remove vertex group that are no longer needed from vertices"
   - 処理後にウェイトが0に設定された頂点グループを削除するか
 
+## 開発協力
+
+Gemini Code Assist
+
 ## ライセンス
 
 [MITライセンス](./LICENSE)
